@@ -1,0 +1,45 @@
+.Volunteer-form {
+    background-color: #e5e5e54d;
+    min-height: 100vh;
+}
+
+.form-area {
+    background-color: #fff;
+    border: 1px solid #C5C5C5;
+    padding: 50px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.form-area input {
+    font-weight: 500;
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px 0px;
+    color: #000000;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #C5C5C5;
+}
+
+/* .form-area button {
+    background-color: #3F90FC;
+    border: none;
+    color: white;
+    font-weight: 400;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+} */
+
+.form-area input[type="submit"] {
+    background-color: #3F90FC;
+    border: none;
+    color: white;
+    font-weight: 400;
+    outline: none;
+}
+
+::-webkit-input-placeholder {
+    color: #000000;
+}
